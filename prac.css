@@ -1,0 +1,17 @@
+.bagButton{
+background-color: rgb(52, 231, 52);
+border: none;
+border-radius: 10px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+box-sizing: border-box;
+}
+
+#moveButton{
+    padding: 5px 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-transform: uppercase
+}
